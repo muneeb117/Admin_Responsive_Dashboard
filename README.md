@@ -1,6 +1,6 @@
-# admin_panel
+# admin dashboard Responsive 
 
-A new Flutter project.
+A new Flutter project. Starting point
 
 ## Getting Started
 
